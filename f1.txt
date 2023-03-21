@@ -3,5 +3,10 @@ f1 has update
 f2
 f3
 f4 
+<<<<<<< HEAD
 f1 new 3
 f5
+=======
+f5
+f6
+>>>>>>> f245608 (added f6)
